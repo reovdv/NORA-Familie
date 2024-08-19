@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vindt grondslag in"
+    id="id-896e7b591d2e4649a7a253d3bf8f0e9b"
+    directed="true">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-3ab7bf28698b4c0ea9cec25c5da03c8d.xml#id-3ab7bf28698b4c0ea9cec25c5da03c8d"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-dcf787cf68b843d888d233fa04640e7d.xml#id-dcf787cf68b843d888d233fa04640e7d"/>
+</archimate:AssociationRelationship>
