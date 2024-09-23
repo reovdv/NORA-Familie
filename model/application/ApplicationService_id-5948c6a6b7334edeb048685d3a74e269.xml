@@ -1,0 +1,24 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Landelijke service"
+    id="id-5948c6a6b7334edeb048685d3a74e269"
+    documentation="Geautomatiseerd functionaliteit die wordt ontsloten door een bovenschools / organisatie-overstijgend informatiesysteem.">
+  <properties
+      key="Object ID"
+      value="0b6625c2-1f00-426f8-ed34-2af08e7099f"/>
+  <properties
+      key="Original ID"
+      value="id-0b6625c21f00426f8ed342af08e7099f"/>
+  <properties
+      key="SWC type"
+      value="Landelijke service"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Semanticsearch"
+      value="landelijke service"/>
+  <properties
+      key="FORA-type"
+      value="Applicatieservice"/>
+</archimate:ApplicationService>

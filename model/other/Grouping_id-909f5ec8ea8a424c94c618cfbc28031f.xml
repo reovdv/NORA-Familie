@@ -1,0 +1,24 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsdomein"
+    id="id-909f5ec8ea8a424c94c618cfbc28031f"
+    documentation="Een inhoudelijk gebied dat gebruikt wordt om de inhoud van de FORA (d.w.z. de architectuurelementen) te groeperen.">
+  <properties
+      key="Object ID"
+      value="61e02e9b-aeaf-4801-962a-fd95ad2dec35"/>
+  <properties
+      key="Original ID"
+      value="id-61e02e9b-aeaf-4801-962a-fd95ad2dec35"/>
+  <properties
+      key="Semanticsearch"
+      value="bedrijfsdomein"/>
+  <properties
+      key="SWC status"
+      value="In gebruik"/>
+  <properties
+      key="SWC type"
+      value="Groep"/>
+  <properties
+      key="FORA-type"
+      value="Bedrijfsdomein"/>
+</archimate:Grouping>

@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rol"
+    id="id-2f93f3fdf7244f66b35e66f4b8489075"
+    documentation="Geheel van autorisaties voor de uitvoering van een bepaalde functie.">
+  <properties
+      key="Object ID"
+      value="47e83091-534b-4411-8afe-8af64af4c378"/>
+  <properties
+      key="Original ID"
+      value="id-47e83091-534b-4411-8afe-8af64af4c378"/>
+  <properties
+      key="SWC type"
+      value="Rol"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Semanticsearch"
+      value="rol"/>
+</archimate:BusinessRole>

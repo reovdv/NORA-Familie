@@ -1,0 +1,24 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Actor"
+    id="id-a82500c176484c0196b13ac678bf7774"
+    documentation="Een natuurlijk persoon of een organisatie die een bepaalde rol heeft.">
+  <properties
+      key="Object ID"
+      value="ebd2b3ed-8ed8-4d259-1b8d-ec3ed1bf195"/>
+  <properties
+      key="Original ID"
+      value="id-ebd2b3ed8ed84d2591b8dec3ed1bf195"/>
+  <properties
+      key="SWC type"
+      value="Organisatie"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Semanticsearch"
+      value="actor"/>
+  <properties
+      key="FORA-type"
+      value="Actor"/>
+</archimate:BusinessActor>

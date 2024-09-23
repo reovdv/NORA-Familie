@@ -1,0 +1,24 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevenselement"
+    id="id-993c9181b3d94729b5985125e527d706"
+    documentation="Een enkelvoudig stukje informatie of een specifiek gegeven.">
+  <properties
+      key="SWC type"
+      value="Gegevens"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="FORA-type"
+      value="Gegevenselement"/>
+  <properties
+      key="Object ID"
+      value="8fe62cf5-e21f-4438b-8fc4-c606ab86621"/>
+  <properties
+      key="Original ID"
+      value="id-8fe62cf5e21f4438b8fc4c606ab86621"/>
+  <properties
+      key="Semanticsearch"
+      value="gegevenselement"/>
+</archimate:DataObject>

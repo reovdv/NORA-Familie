@@ -1,0 +1,24 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaard"
+    id="id-c6071b69ef184c7e9a509064cf2c7eb3"
+    documentation="Een set van regels die beschrijft hoe mensen materialen, producten, diensten, technologieën, taken, processen en systemen dienen te ontwikkelen en beheren.">
+  <properties
+      key="Object ID"
+      value="281114d1-093e-4112-92dd-dfbd4ce82a4b"/>
+  <properties
+      key="Original ID"
+      value="id-281114d1-093e-4112-92dd-dfbd4ce82a4b"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="SWC type"
+      value="Standaard"/>
+  <properties
+      key="Semanticsearch"
+      value="standaard"/>
+  <properties
+      key="FORA-type"
+      value="Standaard"/>
+</archimate:Constraint>

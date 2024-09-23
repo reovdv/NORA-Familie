@@ -1,0 +1,24 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Landelijke dienst"
+    id="id-2964f2c0f3044299bd2f6577a131b517"
+    documentation="Een dienst die wordt aangeboden door een bovenschools / organisatie-overstijgend informatiesysteem.">
+  <properties
+      key="Object ID"
+      value="d92d8f03-e2e5-4ac1b-8585-4b6d1491411"/>
+  <properties
+      key="Original ID"
+      value="id-d92d8f03e2e54ac1b85854b6d1491411"/>
+  <properties
+      key="SWC type"
+      value="Landelijke dienst"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Semanticsearch"
+      value="landelijke dienst"/>
+  <properties
+      key="FORA-type"
+      value="Landelijke dienst"/>
+</archimate:BusinessService>

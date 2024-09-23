@@ -1,0 +1,21 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorgeschreven standaard"
+    id="id-07eedc3db16f45b8b3008fabfc8a86c1">
+  <properties
+      key="Object ID"
+      value="62d471ba-ac8f-4ed5b-5bc2-57a5b9a64cb"/>
+  <properties
+      key="Original ID"
+      value="id-62d471baac8f4ed5b5bc257a5b9a64cb"/>
+  <properties
+      key="Semanticsearch"
+      value="voorgeschreven standaard"/>
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-5948c6a6b7334edeb048685d3a74e269.xml#id-5948c6a6b7334edeb048685d3a74e269"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-c6071b69ef184c7e9a509064cf2c7eb3.xml#id-c6071b69ef184c7e9a509064cf2c7eb3"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,24 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standaardversie"
+    id="id-d380c948e6e74145924d287bf250cc48"
+    documentation="Een specifieke versie van een standaard.">
+  <properties
+      key="Object ID"
+      value="70aef5cf-ad9c-4c0c-bed6-f2c97e6f01f7"/>
+  <properties
+      key="Original ID"
+      value="id-70aef5cf-ad9c-4c0c-bed6-f2c97e6f01f7"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="SWC type"
+      value="Standaardversie"/>
+  <properties
+      key="Semanticsearch"
+      value="standaardversie"/>
+  <properties
+      key="FORA-type"
+      value="Standaardversie"/>
+</archimate:Constraint>

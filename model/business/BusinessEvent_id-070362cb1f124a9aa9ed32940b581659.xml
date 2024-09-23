@@ -1,0 +1,24 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsgebeurtenis"
+    id="id-070362cb1f124a9aa9ed32940b581659"
+    documentation="Een specifieke gebeurtenis in de bedrijfsomgeving die relevant is voor processen.">
+  <properties
+      key="FORA-type"
+      value="Bedrijfsgebeurtenis"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsgebeurtenis"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Object ID"
+      value="7eadf4b2-61be-46279-4fc0-121a100352f"/>
+  <properties
+      key="Original ID"
+      value="id-7eadf4b261be462794fc0121a100352f"/>
+  <properties
+      key="Semanticsearch"
+      value="bedrijfsgebeurtenis"/>
+</archimate:BusinessEvent>

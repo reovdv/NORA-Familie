@@ -1,0 +1,24 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsfunctie"
+    id="id-d0d55b0de0f94d81bfca957b01e4de33"
+    documentation="Een taak / verantwoordelijkheid die een concrete taak / verantwoordelijkheid representeert, die een onderwijsinstelling doet / moet doen om zijn doelen te bereiken.">
+  <properties
+      key="Object ID"
+      value="0368dc5f-229b-4b6e-8d22-52313dd8ecc1"/>
+  <properties
+      key="Original ID"
+      value="id-0368dc5f-229b-4b6e-8d22-52313dd8ecc1"/>
+  <properties
+      key="SWC type"
+      value="Bedrijfsfunctie"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="Semanticsearch"
+      value="bedrijfsfunctie"/>
+  <properties
+      key="FORA-type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

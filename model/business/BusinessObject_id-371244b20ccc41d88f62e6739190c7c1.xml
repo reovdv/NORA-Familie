@@ -1,0 +1,42 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatieobject"
+    id="id-371244b20ccc41d88f62e6739190c7c1"
+    documentation="Een zelfstandige eenheid van informatie die betekenis heeft en daardoor bruikbaar c.q. van belang is binnen een bepaalde context.">
+  <properties
+      key="Object ID"
+      value="0907a388-f0a4-4071-9526-0c547e6d64a9"/>
+  <properties
+      key="Original ID"
+      value="id-0907a388-f0a4-4071-9526-0c547e6d64a9"/>
+  <properties
+      key="Semanticsearch"
+      value="informatieobject"/>
+  <properties
+      key="Beschikbaarheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Integriteit"
+      value="Niet ingevuld"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Niet ingevuld"/>
+  <properties
+      key="Persoonsgegevens"
+      value="Niet ingevuld"/>
+  <properties
+      key="Gegevenscategorie"
+      value="Niet ingevuld"/>
+  <properties
+      key="Domein"
+      value="Niet ingevuld"/>
+  <properties
+      key="SWC type"
+      value="Informatieobject"/>
+  <properties
+      key="SWC status"
+      value="Concept"/>
+  <properties
+      key="FORA-type"
+      value="Informatieobject"/>
+</archimate:BusinessObject>
