@@ -1,0 +1,30 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatieservice"
+    id="id-371b21af3ff9497ca4a323a6b355ad27"
+    documentation="Een applicatieservice is de zichtbare functionaliteit die een applicatie biedt ter ondersteuning van een stap in een werkproces.">
+  <properties
+      key="Informatiefunctiemodel"
+      value="Ja"/>
+  <properties
+      key="Applicatiemodel"
+      value="Ja"/>
+  <properties
+      key="Toelichting"
+      value="Ze worden ook wel de interface van de applicatie genoemd. Dit kan een interface tussen applicatie en gebruiker zijn, of tussen applicaties onderling, al dan niet via een applicatie integratie-laag. Gebruikersinterfaces werken meestal met scherm en toetsenbord, maar ook geprinte rapportages of notificaties via sms e.d. zijn gebruikersinterfaces."/>
+  <properties
+      key="Voorbeelden"
+      value="Een beheerscherm om klantgegevens in te voeren; een functie om afspraken in te plannen. Een job die periodiek SMS berichten naar de bewoners stuurt om ze te informeren over de reparatieplanning."/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
+  <properties
+      key="Applicatielaag en services"
+      value="Ja"/>
+  <properties
+      key="Werkprocesmodel"
+      value="Ja"/>
+  <properties
+      key="Schrijfwijze"
+      value="Een werkwoord eindigend op '-ing' gevolgd door soms een bijvoeglijk naamwoord en altijd één enkelvoudig zelfstandig naamwoord."/>
+</archimate:ApplicationService>

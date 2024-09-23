@@ -1,0 +1,24 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doelgroep"
+    id="id-793fd6d33d8845ff8894f0232c5d6320"
+    documentation="Een doelgroep is een verzameling van bij elkaar horende afnemende rollen.">
+  <properties
+      key="Toelichting"
+      value="We nemen in de referentiearchitectuur doelgroepen op om afnemers te kunnen groeperen op basis van bijvoorbeeld segment."/>
+  <properties
+      key="Voorbeelden"
+      value="Huurders, overheden"/>
+  <properties
+      key="Dienstenmodel"
+      value="Ja"/>
+  <properties
+      key="Rollenmodel"
+      value="Ja"/>
+  <properties
+      key="Productenmodel"
+      value="Ja"/>
+  <properties
+      key="Producten en diensten model"
+      value="Ja"/>
+</archimate:Grouping>

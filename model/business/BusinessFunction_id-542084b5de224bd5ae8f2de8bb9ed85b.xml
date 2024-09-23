@@ -1,0 +1,27 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsfunctie"
+    id="id-542084b5de224bd5ae8f2de8bb9ed85b"
+    documentation="Een bedrijfsfunctie is een samenhangde verzameling activiteiten waarvoor vergelijkbare expertise en resources ingezet worden.">
+  <properties
+      key="Naamgevingsconventie"
+      value="Dichtbij de taal van de business"/>
+  <properties
+      key="Uitwerking"
+      value="Generiek"/>
+  <properties
+      key="Bron"
+      value="ArchiMate 2.1: Business Function"/>
+  <properties
+      key="Voorbeeld"
+      value="Bediening, Rapportage"/>
+  <properties
+      key="Object ID"
+      value="5a1eb4e6-0161-aed3c-35b9-cab58daf4d9"/>
+  <properties
+      key="Original ID"
+      value="id-5a1eb4e60161aed3c35b9cab58daf4d9"/>
+  <properties
+      key="Semanticsearch"
+      value="bedrijfsfunctie"/>
+</archimate:BusinessFunction>

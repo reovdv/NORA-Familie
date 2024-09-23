@@ -1,0 +1,9 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sectordoelstelling"
+    id="id-0e80f3379b3c4dc6b0db31d6bf770013"
+    documentation="Een sectordoelstelling is een doelstelling die breed voor de gehele sector geldt.">
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+</archimate:Driver>

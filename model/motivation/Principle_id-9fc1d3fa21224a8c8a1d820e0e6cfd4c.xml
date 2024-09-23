@@ -1,0 +1,26 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuurprincipe"
+    id="id-9fc1d3fa21224a8c8a1d820e0e6cfd4c"
+    documentation="Normatieve uitspraak die richting geeft aan het in samenhang ontwerpen en realiseren van ketensamenwerkingen en ketenvoorzieningen.">
+  <properties
+      key="Toelichting"
+      value="Architectuurprincipes geven een invulling aan de doelen van ROSA. Ze zijn algemeen van aard zijn, en worden binnen ontwerpgebieden geconcretiseerd in ontwerpprincipes en ontwerpkaders. "/>
+  <properties
+      key="Type"
+      value="Metamodel"/>
+  <properties
+      key="Rationale"/>
+  <properties
+      key="ROSA Begrippenkader"
+      value="https://rosa.wikixl.nl/index.php/05d65ef2-0be6-4d24-a0f1-984f43583c62"/>
+  <properties
+      key="Externe informatie"
+      value="https://rosa.wikixl.nl/index.php/Architectuurprincipes"/>
+  <properties
+      key="Datum laatste wijziging"
+      value="07-06-2023"/>
+  <properties
+      key="Beschrijving laatste wijziging"
+      value="Definitie opgesteld adhv beschrijvende tekst ROSA Metamodel en ROSA Architectuurkaders"/>
+</archimate:Principle>

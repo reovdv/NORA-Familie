@@ -1,0 +1,15 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kritische risico-indicator"
+    id="id-f1399fb1b94541d1bfa9520fe4b5509e"
+    documentation="Een kritische risico-indicator is een indicator van de kans van optreden van een risico, de mogelijke schade bij optreden, of beide.">
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="RiskControlFramework"
+      value="Ja"/>
+  <properties
+      key="Toelichting"
+      value="Een KRI is vergelijkbaar met een KPI met dien verstande dat een KPI iets zegt over de mate waarin prestaties gerealiseerd worden terwijl een KRI iets zegt over de mate waarin toekomstige risico’s zich kunnen materialiseren. Een KRI is een kwantitatieve maatstaf (bijvoorbeeld een absoluut getal of een ratio) dat de mate van het risico weergeeft."/>
+</archimate:Value>

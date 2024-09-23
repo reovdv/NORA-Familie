@@ -1,0 +1,18 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risico"
+    id="id-eefb16f2b0224cb7bc23e3cd5a0f165a"
+    documentation="Een risico is de kans op het optreden van een onzekere gebeurtenis met een negatief gevolg voor de organisatie en heeft invloed op het behalen van de organisatie-, afdelings- of procesdoelstellingen van de woningcorporatie. &#xA;- Een risico beïnvloedt bedrijfsdoelstellingen, wat leidt tot afwijkingen van geplande resultaten.&#xA;- Een risico wordt bepaald door oorza(a)k(en) en resulterend(e) gevolg(en).&#xA;- Een risico heeft een kans van voorkomen en een impact (grootte van effect).">
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="Voorbeelden"
+      value="Fraude, waardeverlies"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
+  <properties
+      key="RiskControlFramework"
+      value="Ja"/>
+</archimate:Assessment>

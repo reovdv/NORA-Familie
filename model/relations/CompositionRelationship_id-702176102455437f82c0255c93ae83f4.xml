@@ -1,0 +1,20 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-702176102455437f82c0255c93ae83f4">
+  <properties
+      key="Object ID"
+      value="343abe4f-5dc7-4260b-505c-b24749051bd"/>
+  <properties
+      key="Original ID"
+      value="id-343abe4f5dc74260b505cb24749051bd"/>
+  <properties
+      key="Semanticsearch"
+      value="id-343abe4f5dc74260b505cb24749051bd"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-4ab32fda829949fda6fbc719cd5052ad.xml#id-4ab32fda829949fda6fbc719cd5052ad"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-bdd30164da9347b8a0588bbb20eb8ffc.xml#id-bdd30164da9347b8a0588bbb20eb8ffc"/>
+</archimate:CompositionRelationship>

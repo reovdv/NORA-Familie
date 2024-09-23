@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domeingroep"
+    id="id-4d05eaced90c47d1b44c7b36ec73e538"
+    documentation="Een domeingroep is een afgebakende groep elementen die in de waterschapspraktijk vaak in samenhang worden ingericht en gebruikt">
+  <properties
+      key="Object ID"
+      value="d7c4a189-8b3c-c8665-cf53-5f19df3a47d"/>
+  <properties
+      key="Original ID"
+      value="id-d7c4a1898b3cc8665cf535f19df3a47d"/>
+  <properties
+      key="Semanticsearch"
+      value="domeingroep"/>
+</archimate:Grouping>

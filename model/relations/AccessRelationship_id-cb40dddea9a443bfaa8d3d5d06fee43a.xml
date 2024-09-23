@@ -1,0 +1,22 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leest/schrijft"
+    id="id-cb40dddea9a443bfaa8d3d5d06fee43a"
+    accessType="3">
+  <properties
+      key="Object ID"
+      value="30b1e21e-1514-48eea-6e3c-8e3550aaeb2"/>
+  <properties
+      key="Original ID"
+      value="id-30b1e21e151448eea6e3c8e3550aaeb2"/>
+  <properties
+      key="Semanticsearch"
+      value="leest/schrijft"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-d7699de467bc4fa08e6bffc16a36a56b.xml#id-d7699de467bc4fa08e6bffc16a36a56b"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-2cd439314d424b249fe7ceeedf697b8a.xml#id-2cd439314d424b249fe7ceeedf697b8a"/>
+</archimate:AccessRelationship>

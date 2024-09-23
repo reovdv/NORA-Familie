@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Actor"
+    id="id-c748fecb5a0f471bb51f8262be4fc989"
+    documentation="Een actor is een persoon of organisatie die in een of meerdere rollen kan acteren.">
+  <properties
+      key="Toelichting"
+      value="Hoewel we normaliter in de architectuur geen actoren maar alleen rollen modelleren (je kunt niet elke huurder in de architectuur opnemen), maken we een uitzondering wanneer verantwoordelijkheden direct aan een bepaalde actor zijn toegekend."/>
+  <properties
+      key="Voorbeelden"
+      value="Aedes, Autoriteit Woningcorporaties, Inspectie Leefomgeving en Transport, Ministerie van BZK"/>
+  <properties
+      key="Rollenmodel"
+      value="Ja"/>
+</archimate:BusinessActor>

@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kritieke succesfactor"
+    id="id-2aaba0fe4ade4f62870930562fa0468e"
+    documentation="Een kritieke succesfactor is datgene dat bepalend is voor het welslagen van een bepaalde ambitie.">
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="RiskControlFramework"
+      value="Ja"/>
+</archimate:Requirement>

@@ -1,0 +1,21 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stroomt naar"
+    id="id-e92812ea503649cb85779b9ba4031dbf">
+  <properties
+      key="Object ID"
+      value="345c1e1b-7296-4ace8-97e8-92652289a8b"/>
+  <properties
+      key="Original ID"
+      value="id-345c1e1b72964ace897e892652289a8b"/>
+  <properties
+      key="Semanticsearch"
+      value="stroomt naar"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-d7699de467bc4fa08e6bffc16a36a56b.xml#id-d7699de467bc4fa08e6bffc16a36a56b"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-1c79207ca91449e9b0a7663e559579a3.xml#id-1c79207ca91449e9b0a7663e559579a3"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,30 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsrol"
+    id="id-298de55299b34a75a81d5c05c3d4ad27"
+    documentation="Een bedrijfsrol is de verantwoordelijkheid voor specifiek gedrag waar een bedrijfsactor aan toegewezen kan worden.">
+  <properties
+      key="Naamgevingsconventie"
+      value="Actief zelfstandig naamwoord"/>
+  <properties
+      key="Voorbeeld"
+      value="Handhaver, Projectleider, Hydroloog, Bronhouder, Enterprise Architect"/>
+  <properties
+      key="Bron"
+      value="ArchiMate 2.1"/>
+  <properties
+      key="Opmerking"
+      value="Nu niet, maar wel in domeinarchitecturen (laten) uitwerken"/>
+  <properties
+      key="Uitwerking"
+      value="Domein"/>
+  <properties
+      key="Object ID"
+      value="3e3fd5d9-12fc-3696c-8122-19ea6a4c2af"/>
+  <properties
+      key="Original ID"
+      value="id-3e3fd5d912fc3696c812219ea6a4c2af"/>
+  <properties
+      key="Semanticsearch"
+      value="bedrijfsrol"/>
+</archimate:BusinessRole>

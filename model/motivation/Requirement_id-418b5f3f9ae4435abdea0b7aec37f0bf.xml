@@ -1,0 +1,25 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwerpkader"
+    id="id-418b5f3f9ae4435abdea0b7aec37f0bf"
+    documentation="Een maatregel op een bepaald ontwerpgebied, die aangeeft hoe informatiesystemen en informatieuitwisseling op dit gebied ingericht zouden moeten worden om aan de doelen en principes van ROSA te voldoen. ">
+  <properties
+      key="Toelichting"/>
+  <properties
+      key="Type"
+      value="Metamodel"/>
+  <properties
+      key="Rationale"/>
+  <properties
+      key="ROSA Begrippenkader"
+      value="https://rosa.wikixl.nl/index.php/31c90883-8ae8-4790-bec4-91e6373c9225"/>
+  <properties
+      key="Externe informatie"
+      value="https://rosa.wikixl.nl/index.php/Ontwerpgebieden"/>
+  <properties
+      key="Datum laatste wijziging"
+      value="07-06-2023"/>
+  <properties
+      key="Beschrijving laatste wijziging"
+      value="Beschrijving in lijn gebracht met begrip uit ROSA Begrippenkader"/>
+</archimate:Requirement>

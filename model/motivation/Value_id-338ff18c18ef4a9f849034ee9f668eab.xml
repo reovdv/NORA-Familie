@@ -1,0 +1,18 @@
+<archimate:Value
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resultaat-indicator"
+    id="id-338ff18c18ef4a9f849034ee9f668eab"
+    documentation="Een resultaatindicator is een prestatie-indicator die gekoppeld is aan een dienst.">
+  <properties
+      key="Voorbeelden"
+      value="Percentage verhuringen aan de doelgroep van beleid"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
+  <properties
+      key="Prestatiemeting"
+      value="Ja"/>
+</archimate:Value>

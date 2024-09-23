@@ -1,0 +1,39 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienst"
+    id="id-cff9601809a14500828be708b25cf34c"
+    documentation="Een dienst is een afgebakende prestatie die voorziet in een specifieke behoefte van een klant behorende bij het af te nemen/afgenomen product.">
+  <properties
+      key="Toelichting"
+      value="Diensten zijn de primaire resultaten die de organisatie gevraagd of ongevraagd levert ten behoeve van haar afnemers en die het bestaansrecht van de organisatie kenmerken. Diensten worden gebundeld als product aangeboden en definiëren daarmee de relatie tussen organisatie en afnemer."/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="Dienstenmodel"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsservicesmodel"
+      value="Ja"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
+  <properties
+      key="Producten en diensten model"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsprocesmodel"
+      value="Ja"/>
+  <properties
+      key="Thema procesketen"
+      value="Ja"/>
+  <properties
+      key="RGBcode"
+      value="253 226 204"/>
+  <properties
+      key="RiskControlFramework"
+      value="Ja"/>
+  <properties
+      key="Schrijfwijze"
+      value="Bij voorkeur één enkelvoudig zelfstandig naamwoord eventueel voorafgegaan door een bijvoeglijk naamwoord of een werkwoord in de voltooid verleden tijd"/>
+</archimate:BusinessService>

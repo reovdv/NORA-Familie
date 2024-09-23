@@ -1,0 +1,24 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Domein"
+    id="id-2e338065f3944a15a219e4ef8426bb64"
+    documentation="Een domein is een logisch samenhangende groepering van bedrijfsobjecten.">
+  <properties
+      key="Toelichting"
+      value="Bedrijfsobjectdomeinen vormen logische clusters van bedrijfsobjecten die een logisch samenhang met elkaar hebben"/>
+  <properties
+      key="Voorbeelden"
+      value="Vastgoed, Relaties, Overeenkomst"/>
+  <properties
+      key="Gegevenshuishouding"
+      value="Ja"/>
+  <properties
+      key="Applicatielaag en services"
+      value="Ja"/>
+  <properties
+      key="Werkprocesmodel"
+      value="Ja"/>
+  <properties
+      key="Informatiefunctiemodel"
+      value="Ja"/>
+</archimate:Grouping>

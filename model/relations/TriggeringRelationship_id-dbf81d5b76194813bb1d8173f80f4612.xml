@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="veroorzaakt"
+    id="id-dbf81d5b76194813bb1d8173f80f4612">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-37f9606a8738473e910666a65145582d.xml#id-37f9606a8738473e910666a65145582d"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-b958ccc22e5e45388cc4f76106f7f00b.xml#id-b958ccc22e5e45388cc4f76106f7f00b"/>
+</archimate:TriggeringRelationship>

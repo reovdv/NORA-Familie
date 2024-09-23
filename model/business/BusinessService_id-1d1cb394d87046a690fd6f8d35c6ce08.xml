@@ -1,0 +1,45 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsservice"
+    id="id-1d1cb394d87046a690fd6f8d35c6ce08"
+    documentation="Een bedrijfsservice is een afgebakende prestatie die geleverd wordt als onderdeel van een dienst aan een klant.">
+  <properties
+      key="Toelichting"
+      value="Een bedrijfsservice (‘deeldienst’) vormt een stukje in de dienstverlening. Het is het resultaat van een werkproces. De afnemer van de bedrijfsservice kan de eindklant zijn maar ook een interne medewerker of afdeling die het resultaat nodig heeft voor het uitvoeren van het eigen werkproces. We nemen in de referentiearchitectuur bedrijfsservices op om duidelijk te maken welke resultaten werkprocessen opleveren en wat de bijdrage daarvan is aan de dienstverlening aan afnemers."/>
+  <properties
+      key="Dienstenmodel"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsservicesmodel"
+      value="Ja"/>
+  <properties
+      key="Informatiefunctiemodel"
+      value="Ja"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="Applicatielaag en services"
+      value="Ja"/>
+  <properties
+      key="Producten en diensten model"
+      value="Ja"/>
+  <properties
+      key="Thema procesketen"
+      value="Ja"/>
+  <properties
+      key="Werkprocesmodel"
+      value="Ja"/>
+  <properties
+      key="RGBcode"
+      value="249 180 123"/>
+  <properties
+      key="RiskControlFramework"
+      value="Ja"/>
+  <properties
+      key="Schrijfwijze"
+      value="Bij voorkeur één enkelvoudig zelfstandig naamwoord eventueel voorafgegaan door een bijvoeglijk naamwoord of een werkwoord in de voltooid verleden tijd"/>
+</archimate:BusinessService>

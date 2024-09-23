@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-60a81dedf3614592b2340120897ede79">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-9d9c9a47a59646c3882602e62d09a423.xml#id-9d9c9a47a59646c3882602e62d09a423"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-9d9c9a47a59646c3882602e62d09a423.xml#id-9d9c9a47a59646c3882602e62d09a423"/>
+</archimate:CompositionRelationship>

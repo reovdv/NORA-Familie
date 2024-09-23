@@ -1,0 +1,27 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensobject"
+    id="id-8065c73103174cf59c183d00a6adaf9d"
+    documentation="Een gegevensobject is een logische verzameling van gegevens die van vitaal belang zijn voor een bedrijf.">
+  <properties
+      key="Applicatiemodel"
+      value="Ja"/>
+  <properties
+      key="Toelichting"
+      value="Gegevensobjecten zijn de representatie op de applicatielaag van de bedrijfsobjecten. We nemen deze in de referentiearchitectuur op om te modelleren welke gegevens in welke applicaties vastgelegd en verwerkt worden en welke gegevens tussen applicaties uitgewisseld worden. Essentieel verschil tussen bedrijfsobjecten en gegevensobjecten is dat gegevensobjecten entiteiten zijn aangevuld met attributen (dit gebeurt ook in VERA)"/>
+  <properties
+      key="Voorbeelden"
+      value="Klantgegevens, woningaanpassing, adres, verhuurbare eenheid"/>
+  <properties
+      key="Gegevenshuishouding"
+      value="Ja"/>
+  <properties
+      key="Applicatielaag en services"
+      value="Ja"/>
+  <properties
+      key="Informatiefunctiemodel"
+      value="Ja"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
+</archimate:DataObject>

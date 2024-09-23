@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverende rol"
+    id="id-365d5451c2b648d3adee1a431a027530"
+    documentation="Een leverende rol is de hoedanigheid waarin c.q. verantwoordelijkheid waarmee een externe organisatie een door de interne organisatie af te nemen dienst levert.">
+  <properties
+      key="Rollenmodel"
+      value="Ja"/>
+  <properties
+      key="Voorbeelden"
+      value="Schoonmaakdiensten, VVE beheerdiensten, Installatie onderhoudsdiensten"/>
+</archimate:BusinessRole>

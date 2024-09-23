@@ -1,0 +1,30 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiefunctie"
+    id="id-d7699de467bc4fa08e6bffc16a36a56b"
+    documentation="Een samenhangende groep interne gedragingen van een applicatiecomponent.">
+  <properties
+      key="Naamgevingsconventie"
+      value="Zelfstandig naamwoord"/>
+  <properties
+      key="Bron"
+      value="ArchiMate 2.1"/>
+  <properties
+      key="Voorbeeld"
+      value="Documentcreatie"/>
+  <properties
+      key="Uitwerking"
+      value="Generiek"/>
+  <properties
+      key="Toelichting"
+      value="Via applicatiefuncties realiseert een applicatiecomponent applicatieservices."/>
+  <properties
+      key="Object ID"
+      value="5afa5fe9-0703-b5c5e-d881-cf675826ef9"/>
+  <properties
+      key="Original ID"
+      value="id-5afa5fe90703b5c5ed881cf675826ef9"/>
+  <properties
+      key="Semanticsearch"
+      value="applicatiefunctie"/>
+</archimate:ApplicationFunction>

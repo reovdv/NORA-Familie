@@ -1,0 +1,24 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beleidskader"
+    id="id-2e601c54b04541979eed3fcf6d124c39"
+    documentation="Bestaand overheidsbeleid (nationaal en Europees) en op de instrumenten die in het kader van dat beleid zijn ontwikkeld, zoals wetten, regels, kamerstukken en bestuursakkoorden.">
+  <properties
+      key="Naamgevingsconventie"
+      value="Naam van het betreffende beleid."/>
+  <properties
+      key="Voorbeeld"
+      value="Omgevingswet"/>
+  <properties
+      key="Bron"
+      value="NORA"/>
+  <properties
+      key="Object ID"
+      value="2fba2134-e195-4f7db-3c8a-e4a03316a9f"/>
+  <properties
+      key="Original ID"
+      value="id-2fba2134e1954f7db3c8ae4a03316a9f"/>
+  <properties
+      key="Semanticsearch"
+      value="beleidskader"/>
+</archimate:Driver>

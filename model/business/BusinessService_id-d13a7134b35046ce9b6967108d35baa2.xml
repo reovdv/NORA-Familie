@@ -1,0 +1,27 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsservice"
+    id="id-d13a7134b35046ce9b6967108d35baa2"
+    documentation="Een bedrijfsservice is een dienst die voorziet in de behoefte van een klant binnen of buiten de organisatie.">
+  <properties
+      key="Naamgevingsconventie"
+      value="Werkwoord met een zelfstandig naamwoord"/>
+  <properties
+      key="Bron"
+      value="ArchiMate 2.1"/>
+  <properties
+      key="Uitwerking"
+      value="Generiek"/>
+  <properties
+      key="Voorbeeld"
+      value="Aanvragen vergunning, Beheren waterpeil"/>
+  <properties
+      key="Object ID"
+      value="a0185caa-d277-161a5-9ca0-c4e0976aad0"/>
+  <properties
+      key="Original ID"
+      value="id-a0185caad277161a59ca0c4e0976aad0"/>
+  <properties
+      key="Semanticsearch"
+      value="bedrijfsservice"/>
+</archimate:BusinessService>

@@ -1,0 +1,30 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product"
+    id="id-4f1496e6f4a54ce29741cdd58563cdfd"
+    documentation="Een product is de coherente verzameling van services, vergezeld van een contract of verzameling overeenkomsten, die in zijn geheel wordt aangeboden aan (interne of externe) klanten.">
+  <properties
+      key="Naamgevingsconventie"
+      value="Zelfstandig naamwoord"/>
+  <properties
+      key="Opmerking"
+      value="In referentie alleen producten die voortkomen uit kerntaken uitwerken. Overige producten volgen uit domein architecturen"/>
+  <properties
+      key="Uitwerking"
+      value="Generiek+domein"/>
+  <properties
+      key="Bron"
+      value="ArchiMate 2.1"/>
+  <properties
+      key="Voorbeeld"
+      value="Besluit, Vergunning, Factuur, Waterbeheerprogramma, Legger, Educatie"/>
+  <properties
+      key="Object ID"
+      value="44acb3a9-a350-a4a3b-3105-47fd7ba30a2"/>
+  <properties
+      key="Original ID"
+      value="id-44acb3a9a350a4a3b310547fd7ba30a2"/>
+  <properties
+      key="Semanticsearch"
+      value="product"/>
+</archimate:Product>

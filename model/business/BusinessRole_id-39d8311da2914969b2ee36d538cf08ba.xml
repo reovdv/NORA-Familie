@@ -1,0 +1,21 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoerende rol"
+    id="id-39d8311da2914969b2ee36d538cf08ba"
+    documentation="Een uitvoerende rol is de hoedanigheid waarin c.q. verantwoordelijkheid waarmee een persoon, afdeling of organisatie een toegewezen taak uitvoert.">
+  <properties
+      key="Toelichting"
+      value="We nemen uitvoerende rollen in de referentiearchitectuur op om de modelleren hoe de verantwoordelijkheid voor het uitvoeren van processtappen is belegd."/>
+  <properties
+      key="Voorbeelden"
+      value="Onderhoudsmonteur"/>
+  <properties
+      key="Rollenmodel"
+      value="Ja"/>
+  <properties
+      key="Organisatie"
+      value="Ja"/>
+  <properties
+      key="RiskControlFramework"
+      value="Ja"/>
+</archimate:BusinessRole>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begrip"
+    id="id-3da3b96c1ef440649f92487a14e7eba0"
+    documentation="Een begrip is een binnen de reikwijdte van de architectuur relevante term met een definitie of omschrijving.">
+  <properties
+      key="Toelichting"
+      value="Naast de architectuurconcepten in het metamodel hanteren we diverse begrippen die een nadere toelichting vragen. Daarvoor gebruiken we dit algemene concept. Dit concept kent geen formele relaties met andere concepten, maar in de tekst bij een begrip zijn wel informele verwijzingen mogelijk naar andere concepten in de architectuur."/>
+  <properties
+      key="Voorbeelden"
+      value="CORA, ArchiMate"/>
+</archimate:BusinessObject>

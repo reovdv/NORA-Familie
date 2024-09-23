@@ -1,0 +1,42 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkproces"
+    id="id-922809f912ac4fe49537aac3e8e4a084"
+    documentation="Een werkproces is een geordende reeks processtappen die onder verantwoordelijkheid van een enkele bedrijfsfunctie uitgevoerd wordt en die als afgebakend onderdeel van een bedrijfsproces de levering van een bedrijfsservice realiseert.">
+  <properties
+      key="Toelichting"
+      value="We nemen werkprocessen op in de referentiearchitectuur om te modelleren hoe bedrijfsprocessen samengesteld zijn, hoe daarbij de verantwoordelijkheden belegd zijn bij bedrijfsfuncties en welke geautomatiseerde ondersteuning daarbij gebruikt wordt. Een belangrijk aspect bij procesinrichting is het streven naar herbruikbaarheid. In de referentiearchitectuur worden daartoe herbruikbare werkprocessen onderkend."/>
+  <properties
+      key="CORA procesmodel"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsservicesmodel"
+      value="Ja"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="Applicatielaag en services"
+      value="Ja"/>
+  <properties
+      key="Werkprocesmodel"
+      value="Ja"/>
+  <properties
+      key="Thema procesketen"
+      value="Ja"/>
+  <properties
+      key="RGBcode"
+      value="072 168 255"/>
+  <properties
+      key="RiskControlFramework"
+      value="Ja"/>
+  <properties
+      key="Informatiefunctiemodel"
+      value="Ja"/>
+  <properties
+      key="Schrijfwijze"
+      value="Altijd een werkwoord gevolgd door een enkelvoudig zelfstandig naamwoord"/>
+</archimate:BusinessProcess>

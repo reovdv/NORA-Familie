@@ -1,0 +1,24 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doelstelling"
+    id="id-06ae0f59cc954d3bae6c6aafd370cb32"
+    documentation="Een van tevoren vastgelegd doel of streven dat een organisatie en haar stakeholders proberen te behalen.">
+  <properties
+      key="Bron"
+      value="Archimate 3.1"/>
+  <properties
+      key="Naamgevingsconventie"
+      value="Een combinatie van &quot;kwaltitatief&quot; werkwoord en een zelfstandig naamwoord."/>
+  <properties
+      key="Voorbeeld"
+      value="Verminderen kwetsbaarheid"/>
+  <properties
+      key="Object ID"
+      value="1cef0466-18e7-4e459-70eb-fd4b555fe3c"/>
+  <properties
+      key="Original ID"
+      value="id-1cef046618e74e45970ebfd4b555fe3c"/>
+  <properties
+      key="Semanticsearch"
+      value="doelstelling"/>
+</archimate:Goal>

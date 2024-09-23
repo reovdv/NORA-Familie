@@ -1,0 +1,24 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risico"
+    id="id-c6bc969ae0cf4b5e8c248446bfcbed17"
+    documentation="De kans dat een potentieel gevaar resulteert in een daadwerkelijk incident en de ernst van het letsel of de schade die dit tot gevolg heeft.">
+  <properties
+      key="Bron"
+      value="Archimate 3.1"/>
+  <properties
+      key="Naamgevingsconventie"
+      value="Beschijving van het effect en de eventuele oorzaak (indien bekend)."/>
+  <properties
+      key="Voorbeeld"
+      value="Uitval van systemen door softwarefouten."/>
+  <properties
+      key="Object ID"
+      value="75dc6e16-7add-4e4d8-70ff-821aa9436ec"/>
+  <properties
+      key="Original ID"
+      value="id-75dc6e167add4e4d870ff821aa9436ec"/>
+  <properties
+      key="Semanticsearch"
+      value="risico"/>
+</archimate:Assessment>

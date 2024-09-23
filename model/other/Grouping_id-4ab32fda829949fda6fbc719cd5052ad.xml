@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisatielaag"
+    id="id-4ab32fda829949fda6fbc719cd5052ad"
+    documentation="De organisatielaag beschrijft de producten en diensten van een waterschap en hoe deze gerealiseerd worden door bedrijfsfuncties, -processen en mensen.">
+  <properties
+      key="Object ID"
+      value="07dd4225-8578-454c8-b704-da62e61a920"/>
+  <properties
+      key="Original ID"
+      value="id-07dd42258578454c8b704da62e61a920"/>
+  <properties
+      key="Semanticsearch"
+      value="organisatielaag"/>
+</archimate:Grouping>

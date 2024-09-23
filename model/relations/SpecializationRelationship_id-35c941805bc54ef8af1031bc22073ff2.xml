@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is versie van"
+    id="id-35c941805bc54ef8af1031bc22073ff2">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-cfd7b2b3e9104960b7b691ce5a61548a.xml#id-cfd7b2b3e9104960b7b691ce5a61548a"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-cfd7b2b3e9104960b7b691ce5a61548a.xml#id-cfd7b2b3e9104960b7b691ce5a61548a"/>
+</archimate:SpecializationRelationship>

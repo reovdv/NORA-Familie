@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="benaderd"
+    id="id-1493251699e34c9592116e3e687991bb"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-371b21af3ff9497ca4a323a6b355ad27.xml#id-371b21af3ff9497ca4a323a6b355ad27"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-8065c73103174cf59c183d00a6adaf9d.xml#id-8065c73103174cf59c183d00a6adaf9d"/>
+</archimate:AccessRelationship>

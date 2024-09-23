@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beheert / benadert"
+    id="id-3eee8f92a9b2498db69806e189c7e98e"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a64e0cdf6056427dad43a9e6f40ad3fb.xml#id-a64e0cdf6056427dad43a9e6f40ad3fb"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3d497447723b43cca35d46114e779ce9.xml#id-3d497447723b43cca35d46114e779ce9"/>
+</archimate:AccessRelationship>

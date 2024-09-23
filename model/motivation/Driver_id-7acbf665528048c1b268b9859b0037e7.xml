@@ -1,0 +1,24 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Drijfveer"
+    id="id-7acbf665528048c1b268b9859b0037e7"
+    documentation="Een drijfveer is iets dat een organisatie motiveert haar doelstellingen op of bij te stellen, en de veranderingen te realiseren om die te bereiken.">
+  <properties
+      key="Bron"
+      value="Archimate 3.1"/>
+  <properties
+      key="Voorbeeld"
+      value="betrouwbaarheid"/>
+  <properties
+      key="Naamgevingsconventie"
+      value="Een zelfstandig naamwoord."/>
+  <properties
+      key="Object ID"
+      value="d6b5b7c5-f772-4df6a-ce6c-d345bd31ab0"/>
+  <properties
+      key="Original ID"
+      value="id-d6b5b7c5f7724df6ace6cd345bd31ab0"/>
+  <properties
+      key="Semanticsearch"
+      value="drijfveer"/>
+</archimate:Driver>

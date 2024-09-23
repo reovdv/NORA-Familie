@@ -1,0 +1,18 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Koppelvlak"
+    id="id-79ac4b4133c44709863e1e525029c14b"
+    documentation="Een koppelvlak (VERA) is een aansluiting met een exacte specificatie via welke applicaties gegevens met elkaar kunnen uitwisselen.">
+  <properties
+      key="Applicatiemodel"
+      value="Ja"/>
+  <properties
+      key="Toelichting"
+      value="We nemen koppelvlakken ('interfaces') in de referentiearchitectuur op om te modelleren hoe applicaties integratiefuncties beschikbaar stellen. Koppelvlakken zijn veelal gebaseerd op standaarden zoals SOAP, BPMN enz.; het is voor de sector van groot belang te streven naar het gebruik van geaccepteerde en open standaarden zodat uitwisselbaarheid van gegevens en vervangbaarheid van applicaties gewaarborgd zijn."/>
+  <properties
+      key="Voorbeelden"
+      value="KOVRAkoppeling"/>
+  <properties
+      key="Applicatielaag en services"
+      value="Ja"/>
+</archimate:ApplicationInterface>

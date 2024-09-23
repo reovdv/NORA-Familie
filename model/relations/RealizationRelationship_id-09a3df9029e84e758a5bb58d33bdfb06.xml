@@ -1,0 +1,15 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiseert"
+    id="id-09a3df9029e84e758a5bb58d33bdfb06">
+  <properties
+      key="Thema procesketen"
+      value="Ja"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-76eed58f09b94cc6bd993c2605b292f6.xml#id-76eed58f09b94cc6bd993c2605b292f6"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-cff9601809a14500828be708b25cf34c.xml#id-cff9601809a14500828be708b25cf34c"/>
+</archimate:RealizationRelationship>

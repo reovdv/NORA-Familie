@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="koppelt met"
+    id="id-fbaf201792fb4e63bc7b1e2a63433772">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a64e0cdf6056427dad43a9e6f40ad3fb.xml#id-a64e0cdf6056427dad43a9e6f40ad3fb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a64e0cdf6056427dad43a9e6f40ad3fb.xml#id-a64e0cdf6056427dad43a9e6f40ad3fb"/>
+</archimate:FlowRelationship>

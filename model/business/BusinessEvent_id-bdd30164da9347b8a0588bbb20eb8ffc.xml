@@ -1,0 +1,27 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebeurtenis"
+    id="id-bdd30164da9347b8a0588bbb20eb8ffc"
+    documentation="Een gebeurtenis is iets dat gebeurt (intern of extern) en gedrag beïnvloedt (bv. bedrijfsprocessen en bedrijfsfuncties)">
+  <properties
+      key="Naamgevingsconventie"
+      value="(Bijvoegelijk) Zelfstandig naamwoord"/>
+  <properties
+      key="Uitwerking"
+      value="Generiek"/>
+  <properties
+      key="Bron"
+      value="ArchiMate 2.1"/>
+  <properties
+      key="Voorbeeld"
+      value="Klacht, Bezwaarschrift, Factuur, Nieuwe medewerker"/>
+  <properties
+      key="Object ID"
+      value="a6550ca6-67ff-b94bf-24f7-f7f3974deeb"/>
+  <properties
+      key="Original ID"
+      value="id-a6550ca667ffb94bf24f7f7f3974deeb"/>
+  <properties
+      key="Semanticsearch"
+      value="gebeurtenis"/>
+</archimate:BusinessEvent>

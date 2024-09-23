@@ -1,0 +1,21 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leidt tot"
+    id="id-127033350c46497fa72adb59df713d63">
+  <properties
+      key="Object ID"
+      value="55649470-98ad-483a8-8f53-cb5fa83816f"/>
+  <properties
+      key="Original ID"
+      value="id-5564947098ad483a88f53cb5fa83816f"/>
+  <properties
+      key="Semanticsearch"
+      value="leidt tot"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-6333c18549ae49f695496eb9aae4164c.xml#id-6333c18549ae49f695496eb9aae4164c"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-bdd30164da9347b8a0588bbb20eb8ffc.xml#id-bdd30164da9347b8a0588bbb20eb8ffc"/>
+</archimate:TriggeringRelationship>

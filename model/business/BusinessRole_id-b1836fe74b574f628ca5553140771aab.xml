@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klant"
+    id="id-b1836fe74b574f628ca5553140771aab"
+    documentation="Een klant is een afnemer van producten en services.">
+  <properties
+      key="Object ID"
+      value="ecdeb004-402b-49818-9df6-27ea089e8c8"/>
+  <properties
+      key="Original ID"
+      value="id-ecdeb004402b498189df627ea089e8c8"/>
+  <properties
+      key="Semanticsearch"
+      value="klant"/>
+</archimate:BusinessRole>

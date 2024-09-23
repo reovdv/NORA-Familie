@@ -1,0 +1,15 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatielaag"
+    id="id-a8d1a6f20c5f48ba8bd2cbe6d22928c2"
+    documentation="De informatielaag beschrijft de applicaties en gegevens die gebruikt  worden in de organisatie.">
+  <properties
+      key="Object ID"
+      value="4163dac2-3f4b-4565b-841e-41fa551dc16"/>
+  <properties
+      key="Original ID"
+      value="id-4163dac23f4b4565b841e41fa551dc16"/>
+  <properties
+      key="Semanticsearch"
+      value="informatielaag"/>
+</archimate:Grouping>

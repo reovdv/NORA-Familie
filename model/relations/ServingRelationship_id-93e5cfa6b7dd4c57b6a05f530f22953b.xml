@@ -1,0 +1,21 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ondersteunt"
+    id="id-93e5cfa6b7dd4c57b6a05f530f22953b">
+  <properties
+      key="Object ID"
+      value="cfe9cf02-9403-46aa8-c68c-d51cb178452"/>
+  <properties
+      key="Original ID"
+      value="id-cfe9cf02940346aa8c68cd51cb178452"/>
+  <properties
+      key="Semanticsearch"
+      value="ondersteunt"/>
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-d13a7134b35046ce9b6967108d35baa2.xml#id-d13a7134b35046ce9b6967108d35baa2"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-b1836fe74b574f628ca5553140771aab.xml#id-b1836fe74b574f628ca5553140771aab"/>
+</archimate:ServingRelationship>

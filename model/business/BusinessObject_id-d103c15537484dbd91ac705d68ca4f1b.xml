@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsobject"
+    id="id-d103c15537484dbd91ac705d68ca4f1b"
+    documentation="Dingen die vanuit bedrijfsperspectief relevant zijn en waar informatie over vastgelegd wordt.">
+  <properties
+      key="Naamgevingsconventie"
+      value="Zelfstandig naamwoord"/>
+  <properties
+      key="Voorbeeld"
+      value="Zaak, Gemaal, Personeel"/>
+  <properties
+      key="Bron"
+      value="ArchiMate 2.1"/>
+  <properties
+      key="Uitwerking"
+      value="Generiek"/>
+  <properties
+      key="Object ID"
+      value="939c94f5-abcb-8ff78-d434-47790976a50"/>
+  <properties
+      key="Original ID"
+      value="id-939c94f5abcb8ff78d43447790976a50"/>
+  <properties
+      key="Semanticsearch"
+      value="bedrijfsobject"/>
+</archimate:BusinessObject>

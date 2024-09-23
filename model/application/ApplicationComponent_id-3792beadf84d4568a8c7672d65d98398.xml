@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referentiecomponent"
+    id="id-3792beadf84d4568a8c7672d65d98398"
+    documentation="Een referentiecomponent is een type applicatiecomponent.  De ArchiMate definitie van een applicatiecomponent is: Een modulair, zelfstandig inzetbaar en vervangbaar deel van een systeem, dat zijn functionaliteit aanbiedt via goed gedefinieerde interfaces. Applicatiecomponenten stellen functionaliteit beschikbaar, die gebruikt wordt om de applicatiediensten mee te leveren.">
+  <properties
+      key="Naamgevingsconventie"
+      value="Zelfstandig naamwoord eindigen met 'component'"/>
+  <properties
+      key="Voorbeeld"
+      value="Bezwaarcomponent, Zaaksysteemcomponent, Vergunning- Toezicht- Handhavingcomponent"/>
+  <properties
+      key="Uitwerking"
+      value="Generiek"/>
+  <properties
+      key="Bron"
+      value="GEMMA 2.0"/>
+  <properties
+      key="Object ID"
+      value="b9ef03ad-a577-16bfc-0309-6168b730cbf"/>
+  <properties
+      key="Original ID"
+      value="id-b9ef03ada57716bfc03096168b730cbf"/>
+  <properties
+      key="Semanticsearch"
+      value="referentiecomponent"/>
+</archimate:ApplicationComponent>

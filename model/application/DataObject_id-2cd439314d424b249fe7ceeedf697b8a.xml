@@ -1,0 +1,30 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensobject"
+    id="id-2cd439314d424b249fe7ceeedf697b8a"
+    documentation="Een passief element dat geschikt is voor geautomatiseerde verwerking.">
+  <properties
+      key="Naamgevingsconventie"
+      value="Zelfstandig naamwoord"/>
+  <properties
+      key="Bron"
+      value="ArchiMate 2.1"/>
+  <properties
+      key="Opmerking"
+      value="Nu niet, maar wel in domeinarchitecturen (thema gegevensmanagement) uitwerken"/>
+  <properties
+      key="Voorbeeld"
+      value="Klepstuw, Kering, Peilbuis, Sondering"/>
+  <properties
+      key="Uitwerking"
+      value="Domein"/>
+  <properties
+      key="Object ID"
+      value="8ad9c916-49a8-04741-1357-b0f94e01120"/>
+  <properties
+      key="Original ID"
+      value="id-8ad9c91649a8047411357b0f94e01120"/>
+  <properties
+      key="Semanticsearch"
+      value="gegevensobject"/>
+</archimate:DataObject>

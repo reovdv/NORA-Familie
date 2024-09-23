@@ -1,0 +1,22 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leest/schrijft"
+    id="id-8371d65de7ba45a5b3af9dab22c392a3"
+    accessType="3">
+  <properties
+      key="Object ID"
+      value="c2a0c73a-6230-4a09a-213e-32c0bca02d6"/>
+  <properties
+      key="Original ID"
+      value="id-c2a0c73a62304a09a213e32c0bca02d6"/>
+  <properties
+      key="Semanticsearch"
+      value="leest/schrijft"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-6333c18549ae49f695496eb9aae4164c.xml#id-6333c18549ae49f695496eb9aae4164c"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d103c15537484dbd91ac705d68ca4f1b.xml#id-d103c15537484dbd91ac705d68ca4f1b"/>
+</archimate:AccessRelationship>

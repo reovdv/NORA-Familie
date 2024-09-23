@@ -1,0 +1,12 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kanaal"
+    id="id-046441720bc1454cb9b035b3a01caf28"
+    documentation="Een kanaal is de wijze waarop een bedrijfsservice beschikbaar is voor afnemers.">
+  <properties
+      key="Toelichting"
+      value="We nemen kanalen in de referentiearchitectuur op om te modelleren hoe de interactie met afnemers plaatsvindt.. Dit kan per bedrijfsservice anders zijn."/>
+  <properties
+      key="Voorbeelden"
+      value="Telefoon, post, op locatie"/>
+</archimate:BusinessInterface>

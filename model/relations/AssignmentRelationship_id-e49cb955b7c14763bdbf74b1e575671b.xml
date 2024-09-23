@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vervult"
+    id="id-e49cb955b7c14763bdbf74b1e575671b">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-c748fecb5a0f471bb51f8262be4fc989.xml#id-c748fecb5a0f471bb51f8262be4fc989"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-39d8311da2914969b2ee36d538cf08ba.xml#id-39d8311da2914969b2ee36d538cf08ba"/>
+</archimate:AssignmentRelationship>

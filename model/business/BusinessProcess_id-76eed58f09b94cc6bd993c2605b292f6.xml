@@ -1,0 +1,36 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsproces"
+    id="id-76eed58f09b94cc6bd993c2605b292f6"
+    documentation="Een bedrijfsproces is een geordende reeks werkprocessen die onder verantwoordelijkheid van één organisatie wordt uitgevoerd met als doel één dienst te leveren aan een afnemer en die wordt gestart door een specifieke gebeurtenis.">
+  <properties
+      key="Toelichting"
+      value="Een bedrijfsproces beschouwen we altijd als ‘van klant tot klant’ gezien vanuit het perspectief van de uitvoerende organisatie. Het betreft dus het geheel van activiteiten waarmee de afnemer tevreden wordt gesteld en de organisatie ‘klaar’ is. De verantwoordelijkheid voor de uitvoering ligt bij de organisatie, maar de uitvoering zelf kan geheel of gedeeltelijk uitbesteed zijn."/>
+  <properties
+      key="CORA procesmodel"
+      value="Ja"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsprocesmodel"
+      value="Ja"/>
+  <properties
+      key="Werkprocesmodel"
+      value="Ja"/>
+  <properties
+      key="Thema procesketen"
+      value="Ja"/>
+  <properties
+      key="RGBcode"
+      value="147 204 255"/>
+  <properties
+      key="RiskControlFramework"
+      value="Ja"/>
+  <properties
+      key="Schrijfwijze"
+      value="Altijd een werkwoord gevolgd door een meervoudig zelfstandig naamwoord"/>
+</archimate:BusinessProcess>

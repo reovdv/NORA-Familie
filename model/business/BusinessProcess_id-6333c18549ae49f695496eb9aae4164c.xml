@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proces"
+    id="id-6333c18549ae49f695496eb9aae4164c"
+    documentation="Een verzameling activiteiten die in samenhang plaatsvinden, gericht op een beoogd resultaat en met een zekere mate van herhaalbaarheid.">
+  <properties
+      key="Object ID"
+      value="2894a1c5-3bae-4634b-e08c-b78e85a72c7"/>
+  <properties
+      key="Original ID"
+      value="id-2894a1c53bae4634be08cb78e85a72c7"/>
+  <properties
+      key="Semanticsearch"
+      value="proces"/>
+</archimate:BusinessProcess>

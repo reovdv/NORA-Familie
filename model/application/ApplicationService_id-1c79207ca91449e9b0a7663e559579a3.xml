@@ -1,0 +1,30 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Landelijke of sectorale service"
+    id="id-1c79207ca91449e9b0a7663e559579a3"
+    documentation="De landelijk e of sectorale service is een applicatieservice (of koppelvlak) die de sectorale en landelijke voorzieningen aanbieden aan haar afnemers.">
+  <properties
+      key="Naamgevingsconventie"
+      value="Naamgeving van de bron (kan dus verschillen)"/>
+  <properties
+      key="Bron"
+      value="GEMMA 2.0"/>
+  <properties
+      key="Opmerking"
+      value="ja, maar opnemen als externe voorzieningen"/>
+  <properties
+      key="Voorbeeld"
+      value="-"/>
+  <properties
+      key="Uitwerking"
+      value="Generiek"/>
+  <properties
+      key="Object ID"
+      value="729b1bed-39ea-f1262-43ac-9803fe2e6ad"/>
+  <properties
+      key="Original ID"
+      value="id-729b1bed39eaf126243ac9803fe2e6ad"/>
+  <properties
+      key="Semanticsearch"
+      value="landelijke of sectorale service"/>
+</archimate:ApplicationService>

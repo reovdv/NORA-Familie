@@ -1,0 +1,15 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doelstelling"
+    id="id-b64edddca62448e6843f92ce677db2c8"
+    documentation="Een doelstelling is een richtinggevende uitspraak in termen van een gewenste situatie voor de organisatie en/of voor haar klanten.">
+  <properties
+      key="Toelichting"
+      value="We nemen in de referentiearchitectuur doelstellingen op om daarmee de context en betekenis van prestatie-indicatoren te kunnen duiden."/>
+  <properties
+      key="Voorbeelden"
+      value="Van alle beschikbaar komende sociale huurwoningen minimaal 80% toewijzen aan de doelgroep van beleid; Minimaal 70% van de voorraad bij verhuur ten energielabel B"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+</archimate:Goal>

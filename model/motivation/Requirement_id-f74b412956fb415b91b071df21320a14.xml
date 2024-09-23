@@ -1,0 +1,18 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Controlemaatregel"
+    id="id-f74b412956fb415b91b071df21320a14"
+    documentation="Een actie, apparaat, procedure of techniek die een bedreiging, kwetsbaarheid of aanval mitigeert, door deze te bestrijden of voorkomen.">
+  <properties
+      key="Bron"
+      value="How to Model EnterpriseRisk Management and Security with the ArchiMate®Language"/>
+  <properties
+      key="Object ID"
+      value="92c15252-1caa-45b88-31c1-75871cac95e"/>
+  <properties
+      key="Original ID"
+      value="id-92c152521caa45b8831c175871cac95e"/>
+  <properties
+      key="Semanticsearch"
+      value="controlemaatregel"/>
+</archimate:Requirement>

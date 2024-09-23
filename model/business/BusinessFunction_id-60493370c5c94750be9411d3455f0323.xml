@@ -1,0 +1,33 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hoofdbedrijfsfunctie"
+    id="id-60493370c5c94750be9411d3455f0323"
+    documentation="Een hoofdbedrijfsfunctie is een coherente verzameling competenties gericht op het leveren van een of meerdere diensten.">
+  <properties
+      key="Bedrijfsfunctiemodel"
+      value="Ja"/>
+  <properties
+      key="Organisatie"
+      value="Ja"/>
+  <properties
+      key="CORA processjabloon"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsprocesmodel"
+      value="Ja"/>
+  <properties
+      key="Thema procesketen"
+      value="Ja"/>
+  <properties
+      key="RGBcode"
+      value="141 198 063"/>
+  <properties
+      key="Sturingsmodel"
+      value="Ja"/>
+  <properties
+      key="RiskControlFramework"
+      value="Ja"/>
+  <properties
+      key="Schrijfwijze"
+      value="Altijd in enkelvoudig zelfstandig naamwoord"/>
+</archimate:BusinessFunction>

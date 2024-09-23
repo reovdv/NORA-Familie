@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Principe"
+    id="id-dd15366c13274463b2a4f91a40c676bb"
+    documentation="Een principe is een richtinggevende uitspraak waar een organisatie zich aan kan verbinden, gericht op het bereiken van een doel op langere termijn.">
+  <properties
+      key="Toelichting"
+      value="We nemen principes in de referentiearchitectuur op om te modelleren welke strategische keuzes de sector maakt om ook op de lange termijn de gestelde doelstellingen te bereiken."/>
+  <properties
+      key="Voorbeelden"
+      value="Enkelvoudig uitvragen van gegevens"/>
+</archimate:Principle>

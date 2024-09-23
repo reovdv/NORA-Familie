@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Handeling"
+    id="id-d6edbab7230a44378c00de9d63b6173e"
+    documentation="Een handeling is een enkelvoudige toewijsbare activiteit die bijdraagt aan de uitvoering van een processtap.">
+  <properties
+      key="Toelichting"
+      value="Kleinste eenheid van werk, uitgevoerd door één persoon of machine. We nemen deze in de referentiearchitectuur wel op in het kennismodel maar niet in de uitwerking omdat we daarmee veel te ver in detail treden bij het beschrijven van processen; dit detailniveau wordt door elke organisatie op eigen wijze ingericht."/>
+  <properties
+      key="Voorbeelden"
+      value="Invoeren afspraak in afsprakensysteem"/>
+  <properties
+      key="CORA procesmodel"
+      value="Ja"/>
+</archimate:BusinessProcess>
