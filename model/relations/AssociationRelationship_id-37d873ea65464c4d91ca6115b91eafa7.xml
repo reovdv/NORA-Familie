@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vindt grondslag in"
     id="id-37d873ea65464c4d91ca6115b91eafa7"
     directed="true">
   <source
