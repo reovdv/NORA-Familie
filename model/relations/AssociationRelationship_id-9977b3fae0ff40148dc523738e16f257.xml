@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vindt grondslag in"
+    id="id-9977b3fae0ff40148dc523738e16f257">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-54554998a19e4c27b49d2eb0ee86471a.xml#id-54554998a19e4c27b49d2eb0ee86471a"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-0c7f933a8aad48af9ae65f028b0e54e7.xml#id-0c7f933a8aad48af9ae65f028b0e54e7"/>
+</archimate:AssociationRelationship>

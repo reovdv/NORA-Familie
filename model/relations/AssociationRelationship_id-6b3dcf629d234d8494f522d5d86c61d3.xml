@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is relevant binnen"
+    id="id-6b3dcf629d234d8494f522d5d86c61d3"
+    directed="true">
+  <source
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-4a0dc8a8a485491a81dd4519c7a57458.xml#id-4a0dc8a8a485491a81dd4519c7a57458"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-bf26d12dd2c841a9bdba5eab68086c2a.xml#id-bf26d12dd2c841a9bdba5eab68086c2a"/>
+</archimate:AssociationRelationship>
