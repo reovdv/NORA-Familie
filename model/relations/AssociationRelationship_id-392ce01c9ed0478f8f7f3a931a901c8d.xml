@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="heeft bron"
-    id="id-392ce01c9ed0478f8f7f3a931a901c8d">
+    id="id-392ce01c9ed0478f8f7f3a931a901c8d"
+    directed="true">
   <source
       xsi:type="archimate:Driver"
       href="Driver_id-80bcb1e5b90f4b7fbe7ffb6cdb059705.xml#id-80bcb1e5b90f4b7fbe7ffb6cdb059705"/>

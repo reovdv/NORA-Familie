@@ -1,11 +1,13 @@
-<archimate:SpecializationRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-3070057e85e84bc7a72be3c3d6f06889">
+    name="gebruikt"
+    id="id-e2b150c5a48a4b0fbdbc24100c91ce6e"
+    directed="true">
   <source
       xsi:type="archimate:Product"
-      href="Product_id-36e2c278f1134addaed47b91c616c26c.xml#id-36e2c278f1134addaed47b91c616c26c"/>
+      href="Product_id-ddc72f8d2105435abbfecd80ae1ccc9a.xml#id-ddc72f8d2105435abbfecd80ae1ccc9a"/>
   <target
       xsi:type="archimate:Product"
       href="Product_id-0206950a88984e4ea4ab29cf504e1cfd.xml#id-0206950a88984e4ea4ab29cf504e1cfd"/>
-</archimate:SpecializationRelationship>
+</archimate:AssociationRelationship>

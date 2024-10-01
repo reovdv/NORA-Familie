@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="heeft bron"
-    id="id-4d07ba311506408696d2d733889fbb33"
+    id="id-b74a888a3b2e4ab8befe2fdb106f22bd"
     directed="true">
   <source
-      xsi:type="archimate:Requirement"
-      href="Requirement_id-54554998a19e4c27b49d2eb0ee86471a.xml#id-54554998a19e4c27b49d2eb0ee86471a"/>
+      xsi:type="archimate:Capability"
+      href="Capability_id-c784b7a35b1a487985077977164243d9.xml#id-c784b7a35b1a487985077977164243d9"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-4fed2ace73284078b4d631d4a122fb24.xml#id-4fed2ace73284078b4d631d4a122fb24"/>
