@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voorziening [27]"
-    id="id-0206950a88984e4ea4ab29cf504e1cfd"/>
+    id="id-0206950a88984e4ea4ab29cf504e1cfd">
+  <properties
+      key="Elementen voorkomens"
+      value="Gemiddeld"/>
+</archimate:Product>

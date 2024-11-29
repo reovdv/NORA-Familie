@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Actiepunt [0]"
-    id="id-a030039a2e1148108491fd2632f63718"/>
+    id="id-a030039a2e1148108491fd2632f63718">
+  <properties
+      key="Elementen voorkomens"
+      value="Zeer weinig"/>
+</archimate:BusinessObject>

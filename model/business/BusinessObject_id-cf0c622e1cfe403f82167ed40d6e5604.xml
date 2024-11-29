@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dochterarchitectuur"
-    id="id-cf0c622e1cfe403f82167ed40d6e5604"/>
+    name="Dochterarchitectuur [36]"
+    id="id-cf0c622e1cfe403f82167ed40d6e5604">
+  <properties
+      key="Elementen voorkomens"
+      value="Gemiddeld"/>
+</archimate:BusinessObject>

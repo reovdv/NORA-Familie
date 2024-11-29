@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevenswoordenboek [31]"
-    id="id-9568aeee8f2340a89cb7ecf293c1a00a"/>
+    id="id-9568aeee8f2340a89cb7ecf293c1a00a">
+  <properties
+      key="Elementen voorkomens"
+      value="Gemiddeld"/>
+</archimate:BusinessObject>

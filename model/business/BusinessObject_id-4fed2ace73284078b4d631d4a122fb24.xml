@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bron [135]"
-    id="id-4fed2ace73284078b4d631d4a122fb24"/>
+    id="id-4fed2ace73284078b4d631d4a122fb24">
+  <properties
+      key="Elementen voorkomens"
+      value="Heel veel"/>
+</archimate:BusinessObject>
