@@ -1,4 +1,8 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beveiligingspatroon [0]"
-    id="id-ea75b0ad4eed400287af0b84e424dc0a"/>
+    id="id-ea75b0ad4eed400287af0b84e424dc0a">
+  <properties
+      key="Elementen voorkomens"
+      value="Zeer weinig"/>
+</archimate:Requirement>

@@ -1,4 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Themaprincipe"
-    id="id-b1afcdd9edb64474bc5adb8dbd21a4a1"/>
+    name="Themaprincipe [8]"
+    id="id-b1afcdd9edb64474bc5adb8dbd21a4a1">
+  <properties
+      key="Elementen voorkomens"
+      value="Zeer weinig"/>
+</archimate:Principle>

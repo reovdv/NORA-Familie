@@ -1,4 +1,8 @@
 <archimate:Assessment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Probleem [17]"
-    id="id-e164b0a7b241448b9266071512a68bed"/>
+    id="id-e164b0a7b241448b9266071512a68bed">
+  <properties
+      key="Elementen voorkomens"
+      value="Weinig"/>
+</archimate:Assessment>

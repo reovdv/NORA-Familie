@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Semantische intermediair [10]"
-    id="id-ca5e588f6283403db0b7946f217e4fc5"/>
+    id="id-ca5e588f6283403db0b7946f217e4fc5">
+  <properties
+      key="Elementen voorkomens"
+      value="Weinig"/>
+</archimate:BusinessActor>

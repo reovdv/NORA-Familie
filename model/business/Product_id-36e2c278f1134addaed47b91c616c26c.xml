@@ -1,4 +1,8 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rijksvoorziening [10]"
-    id="id-36e2c278f1134addaed47b91c616c26c"/>
+    id="id-36e2c278f1134addaed47b91c616c26c">
+  <properties
+      key="Elementen voorkomens"
+      value="Weinig"/>
+</archimate:Product>

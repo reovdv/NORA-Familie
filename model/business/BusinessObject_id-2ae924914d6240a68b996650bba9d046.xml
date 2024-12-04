@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderwerp [4]"
-    id="id-2ae924914d6240a68b996650bba9d046"/>
+    id="id-2ae924914d6240a68b996650bba9d046">
+  <properties
+      key="Elementen voorkomens"
+      value="Zeer weinig"/>
+</archimate:BusinessObject>

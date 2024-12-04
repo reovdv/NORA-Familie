@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Thema"
-    id="id-1551da8352f74f5d9e94fba85b5a62d7"/>
+    name="Thema [1]"
+    id="id-1551da8352f74f5d9e94fba85b5a62d7">
+  <properties
+      key="Elementen voorkomens"
+      value="Zeer weinig"/>
+</archimate:BusinessObject>

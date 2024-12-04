@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Relatiebeschrijving [36]"
-    id="id-a2fcdcd51c434146ae9f489fd9cce1a4"/>
+    id="id-a2fcdcd51c434146ae9f489fd9cce1a4">
+  <properties
+      key="Elementen voorkomens"
+      value="Gemiddeld"/>
+</archimate:BusinessObject>

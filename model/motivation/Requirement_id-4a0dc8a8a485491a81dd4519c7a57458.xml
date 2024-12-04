@@ -1,4 +1,8 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aspect van regelbeheer [38]"
-    id="id-4a0dc8a8a485491a81dd4519c7a57458"/>
+    id="id-4a0dc8a8a485491a81dd4519c7a57458">
+  <properties
+      key="Elementen voorkomens"
+      value="Gemiddeld"/>
+</archimate:Requirement>

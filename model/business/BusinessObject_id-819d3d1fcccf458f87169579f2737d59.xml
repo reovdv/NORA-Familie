@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EU Programma [11]"
-    id="id-819d3d1fcccf458f87169579f2737d59"/>
+    id="id-819d3d1fcccf458f87169579f2737d59">
+  <properties
+      key="Elementen voorkomens"
+      value="Weinig"/>
+</archimate:BusinessObject>

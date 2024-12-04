@@ -1,4 +1,8 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zichtlijn van regelbeheer [2]"
-    id="id-e89edc0453d44feda78dd9ea78596b83"/>
+    id="id-e89edc0453d44feda78dd9ea78596b83">
+  <properties
+      key="Elementen voorkomens"
+      value="Zeer weinig"/>
+</archimate:Requirement>

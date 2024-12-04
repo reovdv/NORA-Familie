@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Persoon [5]"
-    id="id-dbe33553ec0f42ac9cf78bf8bbf9cc18"/>
+    id="id-dbe33553ec0f42ac9cf78bf8bbf9cc18">
+  <properties
+      key="Elementen voorkomens"
+      value="Zeer weinig"/>
+</archimate:BusinessActor>
