@@ -1,8 +1,8 @@
-<archimate:Constraint
+<archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Standaard [177]"
-    id="id-44466ccb845642adb85ca897871499a4">
+    name="Standaard [176]"
+    id="id-455a9cec11f44f21b2c79fd9a26b879c">
   <properties
       key="Elementen voorkomens"
       value="Heel veel"/>
-</archimate:Constraint>
+</archimate:Requirement>

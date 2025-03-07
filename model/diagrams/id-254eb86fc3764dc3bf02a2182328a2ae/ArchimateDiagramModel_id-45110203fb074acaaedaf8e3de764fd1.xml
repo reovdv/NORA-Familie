@@ -895,8 +895,8 @@
         width="120"
         height="73"/>
     <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-44466ccb845642adb85ca897871499a4.xml#id-44466ccb845642adb85ca897871499a4"/>
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-455a9cec11f44f21b2c79fd9a26b879c.xml#id-455a9cec11f44f21b2c79fd9a26b879c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

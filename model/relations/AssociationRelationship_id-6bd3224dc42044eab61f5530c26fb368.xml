@@ -8,6 +8,6 @@
       xsi:type="archimate:Product"
       href="Product_id-f03bb8a43bfd481daa9f3f0b1d317ca5.xml#id-f03bb8a43bfd481daa9f3f0b1d317ca5"/>
   <target
-      xsi:type="archimate:Constraint"
-      href="Constraint_id-44466ccb845642adb85ca897871499a4.xml#id-44466ccb845642adb85ca897871499a4"/>
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-455a9cec11f44f21b2c79fd9a26b879c.xml#id-455a9cec11f44f21b2c79fd9a26b879c"/>
 </archimate:AssociationRelationship>

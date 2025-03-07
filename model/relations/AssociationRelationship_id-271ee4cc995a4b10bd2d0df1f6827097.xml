@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="#Hangt samen"
+    id="id-271ee4cc995a4b10bd2d0df1f6827097">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-68f4772a643e463488ea30a340a5dbb2.xml#id-68f4772a643e463488ea30a340a5dbb2"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-68f4772a643e463488ea30a340a5dbb2.xml#id-68f4772a643e463488ea30a340a5dbb2"/>
+</archimate:AssociationRelationship>

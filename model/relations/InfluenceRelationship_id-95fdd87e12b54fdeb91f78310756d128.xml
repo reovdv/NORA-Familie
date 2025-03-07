@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="#Is grondslag voor"
+    id="id-95fdd87e12b54fdeb91f78310756d128">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-d81cee9f4a5a4837a97b64d47a336544.xml#id-d81cee9f4a5a4837a97b64d47a336544"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-c6f08703eb66404184ba031edb7346a1.xml#id-c6f08703eb66404184ba031edb7346a1"/>
+</archimate:InfluenceRelationship>

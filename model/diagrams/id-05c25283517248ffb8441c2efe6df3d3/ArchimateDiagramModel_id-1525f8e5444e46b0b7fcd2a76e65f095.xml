@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NORA metamodel"
+    name="NORA metamodel [AS-IS]"
     id="id-1525f8e5444e46b0b7fcd2a76e65f095">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
