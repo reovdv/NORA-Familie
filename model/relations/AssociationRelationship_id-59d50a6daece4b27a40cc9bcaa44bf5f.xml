@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft bron"
+    id="id-59d50a6daece4b27a40cc9bcaa44bf5f"
+    directed="true">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-ba03fbfe9e594d7db489379af67ecc35.xml#id-ba03fbfe9e594d7db489379af67ecc35"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-9afe0fd303be4df190c36cec808dcda8.xml#id-9afe0fd303be4df190c36cec808dcda8"/>
+</archimate:AssociationRelationship>
